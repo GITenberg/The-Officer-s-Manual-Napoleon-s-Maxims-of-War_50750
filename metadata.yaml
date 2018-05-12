@@ -1,4 +1,8 @@
 _repo: The-Officer-s-Manual-Napoleon-s-Maxims-of-War_50750
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50750-h/images/cover.jpg
 creator:
   author:
     agent_name: Napoleon I, Emperor of the French
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4267
     wikipedia: http://en.wikipedia.org/wiki/Napoleon_Bonaparte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50750#The-Officer-s-Manual-Napoleon-s-Maxims-of-War
 gutenberg_issued: '2015-12-23'
 gutenberg_type: Text
 identifiers:
